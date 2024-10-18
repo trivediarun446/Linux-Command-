@@ -1,0 +1,22 @@
+MOST BASIC OR REGULAR USE COMMAND IN LINUX 
+
+1) For listing the files in a folder 
+--> ls 
+
+2) For switching one folder to another folder 
+--> cd <folder_name>   full-form "change directory" 
+
+3) For comming back to the previous directory 
+--> cd .. 
+
+4) For making a new folder 
+--> mkdir <folder_name>  full-form "make directory"
+
+5) For opening files into the vs code 
+--> code <folder_name> 
+
+6) For update the linux repository 
+--> sudo update 
+
+7) For deleting files 
+--> rm <file_name> 
